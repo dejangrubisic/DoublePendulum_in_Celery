@@ -1,0 +1,10 @@
+double_pendulum 1.0.1 (Jan 5, 2019)
+
+    * Vagrant: Added the vbguest plugin as a dependency, to keep VirtualBox
+      Guest Additions up to date.
+
+    * Vagrantfile: The configuration `docker.version' has been deprecated.
+
+double_pendulum 1.0.0 (Januar 5, 2019)
+
+    * Initial release.
